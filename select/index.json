@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "ヤキモチの答え",
+  "base_artist": "HoneyWorks",
+  "createdAt": "2025-12-20T16:23:47.915972Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヤキモチの答え",
+      "artist": "HoneyWorks feat. GUMI",
+      "has_synced": true,
+      "path": "select/01_ヤキモチの答え_HoneyWorks_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヤキモチの答え",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_ヤキモチの答え_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヤキモチの答え",
+      "artist": "望月蒼太",
+      "has_synced": true,
+      "path": "select/03_ヤキモチの答え_望月蒼太.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ヤキモチの答え",
+      "artist": "sana×HoneyWorks",
+      "has_synced": true,
+      "path": "select/04_ヤキモチの答え_sana×HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ヤキモチの答え -another story- feat.早坂あかり(CV：阿澄佳奈)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_ヤキモチの答え_-another_story-_feat.早坂あかり(CV_阿澄佳奈)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ヤキモチの答え feat.望月蒼太(CV：梶裕貴)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/06_ヤキモチの答え_feat.望月蒼太(CV_梶裕貴)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ヤキモチの答え -another story-",
+      "artist": "HoneyWorks feat. 早坂あかり(CV:阿澄佳奈)",
+      "has_synced": true,
+      "path": "select/07_ヤキモチの答え_-another_story-_HoneyWorks_feat._早坂あかり(CV_阿澄佳奈).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヤキモチの答え -another story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/08_ヤキモチの答え_-another_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ヤキモチの答え -another story-",
+      "artist": "HoneyWorks feat. Hayasaka, Akari(CV:Asumi, Kana)",
+      "has_synced": true,
+      "path": "select/09_ヤキモチの答え_-another_story-_HoneyWorks_feat._Hayasaka,_Akari(CV_Asumi,_Kana).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ヤキモチの答え",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/10_ヤキモチの答え_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ヤキモチの答え (feat. 望月蒼太 (CV:梶裕貴))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/11_ヤキモチの答え_(feat._望月蒼太_(CV_梶裕貴))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヤキモチの答え",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/12_ヤキモチの答え_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ヤキモチの答え-another story-",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/13_ヤキモチの答え-another_story-_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ヤキモチの答え",
+      "artist": "ROOT FIVE",
+      "has_synced": true,
+      "path": "select/14_ヤキモチの答え_ROOT_FIVE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ヤキモチの答え –another story–",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/15_ヤキモチの答え_–another_story–_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ヤキモチの答え (feat. 96猫)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/16_ヤキモチの答え_(feat._96猫)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "┗|∵|┓ヤキモチの答え／HoneyWorks feat.GUMI",
+      "artist": "HoneyWorks",
+      "has_synced": false,
+      "path": "select/17_┗_∵_┓ヤキモチの答え_HoneyWorks_feat.GUMI_HoneyWorks.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヤキモチの答え (feat. 96猫)",
+      "artist": "HoneyWorks, 96猫",
+      "has_synced": false,
+      "path": "select/pl_01_ヤキモチの答え_(feat._96猫)_HoneyWorks,_96猫.txt"
+    }
+  ]
+}
